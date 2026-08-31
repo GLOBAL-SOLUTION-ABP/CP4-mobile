@@ -8,8 +8,6 @@ O projeto transforma o layout criado no Figma em uma aplicação navegável feit
 
 Figma: https://www.figma.com/design/Jf3aAVDyheWxwjL0LCGnbb/Next-Chapter-%E2%80%94-App-Prototype?m=auto&t=bRYpVbxWmI5JbfWA-1
 
-![Visão geral do protótipo](./docs/prototype-overview.png)
-
 ## Objetivo
 
 A Next Chapter busca prolongar o ciclo de vida de bolsas de luxo, permitindo que uma peça tenha um novo dono em vez de ficar sem uso. A aplicação reúne catálogo, autenticação, venda assistida, crédito de troca e um programa de exchange em uma única experiência mobile.
